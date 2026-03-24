@@ -293,6 +293,9 @@ async def research_and_write(topic: str) -> str:
 - [ML Fine-Tuning Free](https://github.com/Spinov001-art/ml-fine-tuning-free) — Fine-tune models on free GPU
 - [AI Market Research Reports](https://github.com/Spinov001-art/ai-market-research-reports) — Real market data, no hallucinations
 - [Awesome Web Scraping 2026](https://github.com/Spinov001-art/awesome-web-scraping-2026) — 500+ scraping tools and APIs
+- [RAG from Scratch](https://github.com/spinov001-art/rag-tutorial-python) — Build RAG in 100 lines, no LangChain
+- [AI Agent Starter](https://github.com/spinov001-art/ai-agent-starter) — Agent loop in 150 lines of Python
+- [LLM Prompt Engineering Patterns](https://github.com/spinov001-art/llm-prompt-engineering) — 15 production patterns with code
 
 ## 📊 Benchmarks
 
